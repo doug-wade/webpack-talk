@@ -1,3 +1,3 @@
 import helloSayer from './hello-sayer';
 
-helloSayer('Adies');
+helloSayer('Skillets');
