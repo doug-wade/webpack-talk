@@ -1,3 +1,3 @@
 const mod = window && window.globalState ? '/myFeature/a' : '/myFeature/b';
-const logger = require(`./src/resources/static/${mod}`);
+const logger = require(`./stuff/${mod}`);
 logger();
